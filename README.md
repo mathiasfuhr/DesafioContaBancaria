@@ -26,9 +26,3 @@ Este é um projeto simples desenvolvido em **Java** para simular o funcionamento
 - Um ambiente de desenvolvimento Java (recomendado: IntelliJ IDEA, Eclipse ou VS Code).
 
 ---
-
-## 🚀 Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/seuprojeto.git
