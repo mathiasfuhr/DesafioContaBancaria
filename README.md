@@ -1,48 +1,34 @@
-/**
- * Projeto: Simulador de Conta Bancária
- * 
- * Este programa simula o funcionamento básico de uma conta bancária.
- * O usuário pode visualizar o saldo, transferir valores, receber valores e sair do sistema.
- * 
- * Funcionalidades:
- * 1. Consultar Saldo - Exibe o saldo atual da conta.
- * 2. Transferir Valor - Permite transferir valores, validando o saldo disponível.
- * 3. Receber Valor - Adiciona um valor ao saldo.
- * 4. Sair - Encerra o programa.
- * 
- * Tecnologias Utilizadas:
- * - Java
- * - Scanner (para entrada de dados pelo console)
- * 
- * Como executar:
- * 1. Certifique-se de ter o Java JDK 8 ou superior instalado.
- * 2. Abra este arquivo em uma IDE como IntelliJ IDEA, Eclipse ou VS Code.
- * 3. Compile e execute o programa.
- * 4. Interaja com o menu exibido no terminal.
- * 
- * Exemplo de uso:
- * - Início do programa:
- * 
- * ******************
- * Nome do cliente: Mathias
- * Tipo conta: Corrente
- * Saldo atual: 1599.99
- * ******************
- * ** Digite sua opcao **
- * 1 - Consultar Saldo
- * 2 - Transferir valor
- * 3 - Receber valor
- * 4 - Sair
- * 
- * - Transferir valor maior que o saldo:
- * Saldo insuficiente
- * 
- * - Consultar saldo:
- * Saldo atual: 1599.99
- * 
- * Melhorias Futuras:
- * - Verificar entradas inválidas (ex.: letras ao invés de números).
- * - Suporte a múltiplos usuários.
- * - Implementação de histórico de transações.
- * - Adicionar autenticação.
- */
+# 💰 Simulador de Conta Bancária
+
+Este é um projeto simples desenvolvido em **Java** para simular o funcionamento básico de uma conta bancária. O programa permite ao usuário visualizar o saldo, realizar transferências, receber valores e encerrar o sistema.
+
+---
+
+## ✨ Funcionalidades
+
+- **Consultar Saldo**: Exibe o saldo atual da conta.
+- **Transferir Valor**: Realiza uma transferência, verificando se há saldo suficiente.
+- **Receber Valor**: Adiciona um valor ao saldo da conta.
+- **Sair**: Encerra o programa.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Java**: Linguagem de programação.
+- **Scanner**: Para entrada de dados no console.
+
+---
+
+## 🧰 Pré-requisitos
+
+- Java JDK 8 ou superior instalado.
+- Um ambiente de desenvolvimento Java (recomendado: IntelliJ IDEA, Eclipse ou VS Code).
+
+---
+
+## 🚀 Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/seuprojeto.git
